@@ -1,0 +1,17 @@
+name: build-verify-seal
+version: 1.0.0
+type: skill
+description: "Anti-hallucination engineering framework for Claude Code. 3-phase pipeline: Architecture (6 Questions) > Engineering (Build-Verify-Seal) > Verification (XP Scorecard). Enforces contracts, bottom-up build order, seal criteria, and drift prevention."
+price: 0
+license: MIT
+entry: SKILL.md
+tags:
+  - engineering
+  - anti-hallucination
+  - methodology
+  - architecture
+  - quality
+  - build-system
+  - contracts
+  - verification
+  - scorecard
